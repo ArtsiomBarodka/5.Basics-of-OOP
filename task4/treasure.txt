@@ -1,0 +1,100 @@
+id=1,name=Картина,priceForOne=8400
+id=2,name=Телевизор,priceForOne=6100
+id=3,name=Смартфон,priceForOne=3500
+id=4,name=Часы,priceForOne=500
+id=5,name=Картина,priceForOne=2400
+id=6,name=Монеты,priceForOne=8200
+id=7,name=Картина,priceForOne=1400
+id=8,name=Миллион долларов,priceForOne=300
+id=9,name=Миллион долларов,priceForOne=7800
+id=10,name=Перчатка бесконечности,priceForOne=4400
+id=11,name=Часы,priceForOne=4400
+id=12,name=Алмаз,priceForOne=9700
+id=13,name=Перчатка бесконечности,priceForOne=5300
+id=14,name=Миллион долларов,priceForOne=4000
+id=15,name=Монеты,priceForOne=5000
+id=16,name=Часы,priceForOne=3100
+id=17,name=Картина,priceForOne=7400
+id=18,name=Перчатка бесконечности,priceForOne=1800
+id=19,name=Перчатка бесконечности,priceForOne=100
+id=20,name=Миллион долларов,priceForOne=4000
+id=21,name=Картина,priceForOne=7900
+id=22,name=Картина,priceForOne=6300
+id=23,name=Смартфон,priceForOne=500
+id=24,name=Золотой слиток,priceForOne=8200
+id=25,name=Автомобиль,priceForOne=7100
+id=26,name=Часы,priceForOne=9900
+id=27,name=Смартфон,priceForOne=1900
+id=28,name=Картина,priceForOne=200
+id=29,name=Часы,priceForOne=6000
+id=30,name=Телевизор,priceForOne=6700
+id=31,name=Миллион долларов,priceForOne=9900
+id=32,name=Картина,priceForOne=3300
+id=33,name=Перчатка бесконечности,priceForOne=4500
+id=34,name=Миллион долларов,priceForOne=7400
+id=35,name=Смартфон,priceForOne=7000
+id=36,name=Перчатка бесконечности,priceForOne=2200
+id=37,name=Часы,priceForOne=2600
+id=38,name=Перчатка бесконечности,priceForOne=7100
+id=39,name=Миллион долларов,priceForOne=1200
+id=40,name=Алмаз,priceForOne=3300
+id=41,name=Картина,priceForOne=1300
+id=42,name=Перчатка бесконечности,priceForOne=3500
+id=43,name=Монеты,priceForOne=1200
+id=44,name=Алмаз,priceForOne=4200
+id=45,name=Золотой слиток,priceForOne=600
+id=46,name=Телевизор,priceForOne=5200
+id=47,name=Монеты,priceForOne=800
+id=48,name=Перчатка бесконечности,priceForOne=700
+id=49,name=Перчатка бесконечности,priceForOne=9400
+id=50,name=Автомобиль,priceForOne=4700
+id=51,name=Перчатка бесконечности,priceForOne=9600
+id=52,name=Картина,priceForOne=3900
+id=53,name=Часы,priceForOne=3600
+id=54,name=Картина,priceForOne=7800
+id=55,name=Смартфон,priceForOne=1400
+id=56,name=Миллион долларов,priceForOne=8700
+id=57,name=Монеты,priceForOne=7600
+id=58,name=Миллион долларов,priceForOne=2200
+id=59,name=Золотой слиток,priceForOne=8300
+id=60,name=Картина,priceForOne=9000
+id=61,name=Картина,priceForOne=6500
+id=62,name=Перчатка бесконечности,priceForOne=4200
+id=63,name=Перчатка бесконечности,priceForOne=400
+id=64,name=Перчатка бесконечности,priceForOne=6200
+id=65,name=Миллион долларов,priceForOne=5000
+id=66,name=Монеты,priceForOne=8300
+id=67,name=Миллион долларов,priceForOne=9300
+id=68,name=Телевизор,priceForOne=2300
+id=69,name=Золотой слиток,priceForOne=6200
+id=70,name=Картина,priceForOne=2200
+id=71,name=Золотой слиток,priceForOne=3400
+id=72,name=Часы,priceForOne=3700
+id=73,name=Миллион долларов,priceForOne=1500
+id=74,name=Смартфон,priceForOne=700
+id=75,name=Перчатка бесконечности,priceForOne=1800
+id=76,name=Алмаз,priceForOne=8700
+id=77,name=Монеты,priceForOne=2200
+id=78,name=Автомобиль,priceForOne=9400
+id=79,name=Перчатка бесконечности,priceForOne=4800
+id=80,name=Алмаз,priceForOne=3000
+id=81,name=Золотой слиток,priceForOne=8600
+id=82,name=Алмаз,priceForOne=5900
+id=83,name=Часы,priceForOne=200
+id=84,name=Часы,priceForOne=8300
+id=85,name=Монеты,priceForOne=3000
+id=86,name=Алмаз,priceForOne=1000
+id=87,name=Часы,priceForOne=5900
+id=88,name=Монеты,priceForOne=6200
+id=89,name=Монеты,priceForOne=3900
+id=90,name=Телевизор,priceForOne=1300
+id=91,name=Смартфон,priceForOne=9200
+id=92,name=Картина,priceForOne=6300
+id=93,name=Миллион долларов,priceForOne=7600
+id=94,name=Картина,priceForOne=9000
+id=95,name=Алмаз,priceForOne=9400
+id=96,name=Золотой слиток,priceForOne=7100
+id=97,name=Автомобиль,priceForOne=6400
+id=98,name=Автомобиль,priceForOne=7600
+id=99,name=Монеты,priceForOne=1500
+id=100,name=Картина,priceForOne=5800
